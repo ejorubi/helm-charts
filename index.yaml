@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jose-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-11T20:16:38.411072596Z"
+    description: A Helm chart for Kubernetes - UPDATEEEEEEEEEEEEE
+    digest: 3ca2a3db7dd87ee31e8474e46ce0e187fea75a97a72a671eb2a5ffd8ad58c74b
+    name: jose-nginx
+    type: application
+    urls:
+    - https://ejorubi.github.io/helm-charts/jose-nginx/jose-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-11T20:16:38.409879767Z"
